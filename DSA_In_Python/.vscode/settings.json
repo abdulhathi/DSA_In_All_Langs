@@ -1,0 +1,28 @@
+{
+    // Auto suggession off Start
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    },
+    "editor.quickSuggestionsDelay": 90,
+    "editor.parameterHints.enabled": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "debug.console.historySuggestions": false,
+    "omnisharp.autoStart": false,
+    "workbench.editorAssociations": {
+      "*.html": "default"
+    },
+    "git.autofetch": true,
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    // "[python]": {
+    //   "editor.defaultFormatter": "ms-python.autopep8"
+    // },
+    // "python.formatting.provider": "none",
+    // Auto suggession off End
+}

@@ -1,0 +1,15 @@
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/bin/Debug/net7.0/03_Mathematics
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/bin/Debug/net7.0/03_Mathematics.deps.json
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/bin/Debug/net7.0/03_Mathematics.runtimeconfig.json
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/bin/Debug/net7.0/03_Mathematics.dll
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/bin/Debug/net7.0/03_Mathematics.pdb
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.csproj.AssemblyReference.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.AssemblyInfoInputs.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.AssemblyInfo.cs
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.csproj.CoreCompileInputs.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.dll
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/refint/03_Mathematics.dll
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.pdb
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/03_Mathematics.genruntimeconfig.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/Debug/net7.0/ref/03_Mathematics.dll

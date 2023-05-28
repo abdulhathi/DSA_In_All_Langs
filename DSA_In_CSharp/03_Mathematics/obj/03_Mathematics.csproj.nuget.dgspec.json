@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/03_Mathematics.csproj": {}
+  },
+  "projects": {
+    "/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/03_Mathematics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/03_Mathematics.csproj",
+        "projectName": "03_Mathematics",
+        "projectPath": "/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/03_Mathematics.csproj",
+        "packagesPath": "/Users/abdulhathi/.nuget/packages/",
+        "outputPath": "/Users/abdulhathi/Development/DSA/DSA_In_CSharp/03_Mathematics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdulhathi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
