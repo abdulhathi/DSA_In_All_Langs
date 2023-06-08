@@ -25,4 +25,5 @@
     // },
     // "python.formatting.provider": "none",
     // Auto suggession off End
+    // "workbench.colorTheme": "Visual Studio 2017 Light - C++",
 }
