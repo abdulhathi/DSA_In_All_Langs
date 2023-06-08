@@ -2,5 +2,5 @@
 // Console.WriteLine("Hello, World!");
 
 // new Mathematics.CountDigits().Test();
-
-new Mathematics.CountTrailingZeros().Test();
+// new Mathematics.CountTrailingZeros().Test();
+new Mathematics.GreatestCommonDevisor().Test();

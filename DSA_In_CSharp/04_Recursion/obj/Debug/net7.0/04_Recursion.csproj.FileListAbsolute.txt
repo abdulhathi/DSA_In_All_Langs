@@ -1,0 +1,15 @@
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.csproj.AssemblyReference.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.AssemblyInfoInputs.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.AssemblyInfo.cs
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.csproj.CoreCompileInputs.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/bin/Debug/net7.0/04_Recursion
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/bin/Debug/net7.0/04_Recursion.deps.json
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/bin/Debug/net7.0/04_Recursion.runtimeconfig.json
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/bin/Debug/net7.0/04_Recursion.dll
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/bin/Debug/net7.0/04_Recursion.pdb
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.dll
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/refint/04_Recursion.dll
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.pdb
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/04_Recursion.genruntimeconfig.cache
+/Users/abdulhathi/Development/DSA/DSA_In_CSharp/04_Recursion/obj/Debug/net7.0/ref/04_Recursion.dll
