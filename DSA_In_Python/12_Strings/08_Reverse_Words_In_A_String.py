@@ -15,4 +15,4 @@ def reverseWordsInAString(s):
         res += " " + st.pop() 
     return res
 
-print(reverseWordsInAString("welcome to gfg"))
+print(reverseWordsInAString("welcome to dsa"))
