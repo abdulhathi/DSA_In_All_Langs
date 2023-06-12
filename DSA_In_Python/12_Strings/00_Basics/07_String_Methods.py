@@ -25,3 +25,12 @@ print("mohamed hussain".index("amed"))
 
 # right index
 print("abdulhathi".rindex("a"))
+
+# split method
+path = "/home//foo/"
+res = path.split("/")
+for p in res:
+    if p:
+        print(p)
+
+print("/../".split("/"))

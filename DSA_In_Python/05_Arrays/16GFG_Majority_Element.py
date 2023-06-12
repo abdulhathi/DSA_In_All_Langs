@@ -35,3 +35,4 @@ def majorityElement(nums):
     return -1
 
 print(majorityElement([8,7,6,8,6,6,6,6]))
+
