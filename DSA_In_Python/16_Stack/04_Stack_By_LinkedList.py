@@ -6,7 +6,7 @@ class StackByLL:
         self.size = 0
     
     def push(self, val):
-        node = ListNode(val, self.head)
+        node = ListNode(val, None, self.head)
         self.head = node
         self.size += 1
 
@@ -22,9 +22,28 @@ class StackByLL:
         if self.head:
             return self.head.val
 
-    def size(self):
+    def getSize(self):
         return self.size
 
     def isEmpty(self):
         return self.size == 0
         
+stackByLL = None
+keys = ["StackByLL","push","push","push","pop","peek","size"]
+values = [[],[10],[20],[30],[],[],[]]
+res = []
+for key,value in zip(keys,values):
+    match key:
+        case "StackByLL":
+            stackByLL = StackByLL()
+            res.append(None)
+        case "push":
+            stackByLL.push(value[0])
+            res.append(None)
+        case "pop":
+            res.append(stackByLL.pop())
+        case "peek":
+            res.append(stackByLL.peek())
+        case "size":
+            res.append(stackByLL.getSize())
+print(res)
