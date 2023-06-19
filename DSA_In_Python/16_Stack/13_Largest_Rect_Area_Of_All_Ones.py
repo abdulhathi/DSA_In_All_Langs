@@ -1,4 +1,3 @@
-
 # Time O(m*(n+n)) Space : O(n)
 def largestRectAreaOfAllOnes(matrix):
     def getMaxArea(histogram):
