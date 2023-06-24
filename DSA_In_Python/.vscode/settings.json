@@ -20,6 +20,7 @@
       "editor.defaultFormatter": "ms-python.autopep8"
     },
     "python.formatting.provider": "none",
+    "editor.letterSpacing": 0
     // "[python]": {
     //   "editor.defaultFormatter": "ms-python.autopep8"
     // },
