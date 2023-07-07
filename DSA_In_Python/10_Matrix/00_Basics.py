@@ -13,3 +13,7 @@ print(mat1)
 
 mat1[0][0] = 2
 print(mat1)
+
+
+for r in range(0, 9, 3):
+    print(r)

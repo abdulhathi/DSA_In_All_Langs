@@ -1,4 +1,4 @@
-
+# One char swap to make s == goal and swapcount = 1
 class Solution:
     def buddyStrings(self, s: str, goal: str) -> bool:
         if len(s) != len(goal):
